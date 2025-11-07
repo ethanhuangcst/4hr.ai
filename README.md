@@ -7,7 +7,7 @@
 <br>
 <img width=88 src="https://oncadence.com/robot/" />
 <br>
-## 储备知识
+## 1. 储备知识
 
 |问题|回答|
 |---|---|
@@ -16,9 +16,10 @@
 |问：用AI做课堂练习会难吗？|答：不会难，驾驭AI就像与别人自然对话，不需要紧张|
 |问：AI for HR 是高阶的 AI 课吗？|答：AI for HR 是 AI 的入门课程，重点是 AI 的日常应用|
 |问：AI for HR 课程学完有认证吗？|答：可以获得 <a href="https://scrumalliance.org" target="_blank"> Scrum Alliance </a>颁发的全球认可的 <a href="https://www.scrumalliance.org/microcredentials/ai-for-scrum-masters" target="_blank">AI for ScrumMaster <img width=38 src="https://oncadence.com/badge-ai4sm/" /></a> 认证|
-
-## 1. 准备你的 AI 工具箱
-### 1.1 需要用到的AI大模型和工具
+<br>
+<br>
+## 2. 准备你的 AI 工具箱
+### 2.1 需要用到的AI大模型和工具
 
 |编号|大模型/工具|说明|是否必须|
 |----|------|-----|-----|
@@ -35,14 +36,14 @@
 <br>
 <br>
 
-### 1.2 NIOAI.pro "AI壳子"设置   
-**1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，选”Open AI",然后点“点击进入”** 
+### 2.2 NIOAI.pro "AI壳子"设置   
+**2.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，选”Open AI",然后点“点击进入”** 
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-1/" />
 <br>
 <br>
-**1.2.2. 点”注册”，注册一个新账号** 
+**2.2.2. 点”注册”，注册一个新账号** 
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-2/" />  
@@ -51,7 +52,7 @@
 <img width=688 src=" https://oncadence.com/nioai-3/" />
 <br>
 <br>
-**1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”**
+**2.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”**
 <br>
 <br>
 <b><font color ="red">请在上课当天使用兑换码，</font></b><br>
@@ -61,22 +62,22 @@
 <img width=688 src=" https://oncadence.com/nioai-4/" />
 <br>
 <br>
-**1.2.4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用**
+**2.2.4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用**
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-5/" />
 <br>
 <br>
 <br>
-### 1.3 Chatbox 你自己的 AI 聊天机器人设置
+### 2.3 Chatbox 你自己的 AI 聊天机器人设置
 <br>
-**1.3.1. Chatbox 和阿里百炼结合，可以配置 qwen 和 DeepSeek，变成自己的专属 AI 聊天机器人** 
+**2.3.1. Chatbox 和阿里百炼结合，可以配置 qwen 和 DeepSeek，变成自己的专属 AI 聊天机器人** 
 <br>
 <br>
 <img width=688 src="https://oncadence.com/chatbox/" />
 <br>
 <br>
-**1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”** 
+**2.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”** 
 <br>
 <br>
 <b><font color="red">需要注册阿里云账号，后续会产生一些费用</font></b>
@@ -85,31 +86,31 @@
 <img width=688 src="https://oncadence.com/bailian1/" />
 <br>
 <br>
-**1.3.3. 在百炼界面，点击左下角“密钥管理”** 
+**2.3.3. 在百炼界面，点击左下角“密钥管理”** 
 <br>
 <br>
 <img width=688 src="https://oncadence.com/bailian2/" />
 <br>
 <br>
-**1.3.4. 在密钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来**
+**2.3.4. 在密钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来**
 <br>
 <br>
 <img width=688 src="https://oncadence.com/bailian3/" />
 <br>
 <br>
-**1.3.5. 访问<a href="https://chatboxai.app/en" target="_blank"> Chatbox AI 主页</a> 找到下载中心，下载 Chatbox app 并安装**
+**2.3.5. 访问<a href="https://chatboxai.app/en" target="_blank"> Chatbox AI 主页</a> 找到下载中心，下载 Chatbox app 并安装**
 <br>
 <br>
 <img width=688 src="https://oncadence.com/chatbox0/" />
 <br>
 <br>
-**1.3.6. 在 Chatbox app 右下角，点击 Settings**
+**2.3.6. 在 Chatbox app 右下角，点击 Settings**
 <br>
 <br>
 <img width=688 src="https://oncadence.com/chatbox1/" />
 <br>
 <br>
-**1.3.7. 在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：**
+**2.3.7. 在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：**
 <br>
 - API Key : 之前保存的”阿里百炼“ API Key
 - API Host： https://dashscope.aliyuncs.com/compatible-mode/v1
@@ -131,8 +132,8 @@
 <br>
 
 
-## 2. 驾驭AI必备 - 有效提示词之 STAR 范式
-###  2.1 STAR 范式说明
+## 3. 驾驭AI必备 - 有效提示词之 STAR 范式
+###  3.1 STAR 范式说明
 
 | 元素 | 核心问题 | 推荐长度 | 常见错误 | 最佳实践 |
 | --- | --- | --- |
@@ -143,7 +144,7 @@
 
 <br>
 
-###  2.2 STAR 范式示例
+###  3.2 STAR 范式示例
 
 - 我是Ethan Huang， Scrum Allianc 的认证培训师（CST），也是设计思维、精益、业务创新领域的专家。我是自由职业，但是性格内向，不擅长经营个人IP，也没有市场的背景、 数字化营销的技能。我打算尝试用微信视频号获得流量打造个人IP，但是因为我非常忙，没有足够的时间拍摄视频，而且镜头感很差，刻意拍摄的视频质量欠佳。我打算使用 HeyGen 平台快速生成自己的数字人短视频，用于微信视频号推广个人IP，需要 AI 帮我生成视频的文字脚本。
 - 我希望触达的用户画像：
