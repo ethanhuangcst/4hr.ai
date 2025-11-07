@@ -16,6 +16,7 @@
 |问：用AI做课堂练习会难吗？|答：不会难，驾驭AI就像与别人自然对话，不需要紧张|
 |问：AI for HR 是高阶的 AI 课吗？|答：AI for HR 是 AI 的入门课程，重点是 AI 的日常应用|
 |问：AI for HR 课程学完有认证吗？|答：可以获得 <a href="https://scrumalliance.org" target="_blank"> Scrum Alliance </a>颁发的全球认可的 <a href="https://www.scrumalliance.org/microcredentials/ai-for-scrum-masters" target="_blank">AI for ScrumMaster <img width=38 src="https://oncadence.com/badge-ai4sm/" /></a> 认证|
+
 <br>
 <br>
 ## 2. 准备你的 AI 工具箱
