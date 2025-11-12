@@ -7,7 +7,7 @@
 <br>
 <img width=88 src="https://oncadence.com/robot/" />
 <br>
-## 1. 储备知识
+## 1. Q&A
 
 |问题|回答|
 |---|---|
